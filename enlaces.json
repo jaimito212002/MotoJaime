@@ -3,7 +3,92 @@
     {
       "nombre": "DAZN 1 - 1080p",
       "url": "acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151/"
+    },
+    {
+      "nombre": "DAZN 1 (Opción 2)",
+      "url": "acestream://ENLACE_DAZN_1_OP2"
+    },
+    {
+      "nombre": "DAZN 1 (Opción 3)",
+      "url": "acestream://ENLACE_DAZN_1_OP3"
+    },
+    {
+      "nombre": "DAZN F1 - 1080p",
+      "url": "acestream://ENLACE_F1_1080"
+    },
+    {
+      "nombre": "DAZN F1 - 720p",
+      "url": "acestream://ENLACE_F1_720"
+    }
+  ],
+
+  "dazn_laliga": [
+    {
+      "nombre": "DAZN La Liga - 1080p",
+      "url": "acestream://ENLACE_DAZN_LALIGA_1080"
+    },
+    {
+      "nombre": "Opción 2 - 1080p",
+      "url": "acestream://ENLACE_DAZN_LALIGA_OP2"
+    },
+    {
+      "nombre": "DAZN La Liga - 720p",
+      "url": "acestream://ENLACE_DAZN_LALIGA_720"
+    }
+  ],
+
+  "movistar_laliga": [
+    {
+      "nombre": "Movistar La Liga - 1080p",
+      "url": "acestream://ENLACE_MOV_LIGA_1080"
+    },
+    {
+      "nombre": "Movistar La Liga - Opción 2 - 1080p",
+      "url": "acestream://ENLACE_MOV_LIGA_OP2"
+    },
+    {
+      "nombre": "Movistar La Liga 2 - 1080p",
+      "url": "acestream://ENLACE_MOV_LIGA2_1080"
+    },
+    {
+      "nombre": "Movistar La Liga 2 - Opción 2",
+      "url": "acestream://ENLACE_MOV_LIGA2_OP2"
+    }
+  ],
+
+  "champions": [
+    {
+      "nombre": "Movistar Champions 1 - 1080p",
+      "url": "acestream://ENLACE_CHAMP1_1080"
+    },
+    {
+      "nombre": "Movistar Champions 1 - 720p",
+      "url": "acestream://ENLACE_CHAMP1_720"
+    },
+    {
+      "nombre": "Movistar Champions 2 - 1080p",
+      "url": "acestream://ENLACE_CHAMP2_1080"
+    },
+    {
+      "nombre": "Movistar Champions 2 - 720p",
+      "url": "acestream://ENLACE_CHAMP2_720"
+    }
+  ],
+
+  "tenis": [
+    {
+      "nombre": "Eurosport 1",
+      "url": "acestream://ENLACE_EUROSPORT_1"
+    },
+    {
+      "nombre": "Eurosport 1 (Opción 2)",
+      "url": "acestream://ENLACE_EUROSPORT_1_OP2"
+    },
+    {
+      "nombre": "Movistar Vamos",
+      "url": "acestream://ENLACE_MOV_VAMOS"
     }
   ]
 }
+
 
